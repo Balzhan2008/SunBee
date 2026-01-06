@@ -1,0 +1,12 @@
+[
+    {
+        "title": "AI Technology Breakthrough",
+        "date": "2026-01-07",
+        "content": "A new AI model has been released that can write code, articles, and even poetry."
+    },
+    {
+        "title": "SpaceX Launch Successful",
+        "date": "2026-01-05",
+        "content": "SpaceX successfully launched its Starship rocket into orbit, marking a new era in space exploration."
+    }
+]
